@@ -1,0 +1,52 @@
+# Compiled object files
+*.o
+*.obj
+*.so
+*.a
+*.lib
+*.dll
+
+# Executable files
+*.exe
+*.out
+*.app
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# IDE files
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Temporary files
+*.tmp
+*.bak
+*.log
+
+# Build directories
+build/
+dist/
+bin/
+obj/
+
+# OS specific
+Thumbs.db
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Node modules (if any)
+node_modules/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment files
+.env
+.env.local
